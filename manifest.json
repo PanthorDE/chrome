@@ -1,5 +1,6 @@
 {
   "name": "ReallifeRPG",
+  "short_name": "ReallifeRPG",
   "version": "1.0",
   "description": "ReallifeRPG Chrome extension",
   "manifest_version": 2,

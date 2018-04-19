@@ -1,1 +1,1 @@
-chrome
+https://chrome.google.com/webstore/detail/nhcbjamegmalhkemhdomhmlckeaijkig
